@@ -1,0 +1,16 @@
+.blue{
+	color: #3695d5;
+	font-size: 14pt;
+}
+.dropSm{
+	width: 150px;
+}
+.innerTbl tr td:first-child{
+	width: 200px;
+}
+.thinWidth	{
+	font-family: "Myriad Pro";
+}
+.thinWidth li{
+	padding: 8px 0 0 0;
+}
