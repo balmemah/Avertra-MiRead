@@ -24,9 +24,10 @@
 .meter > div{
 	margin-bottom: 15px;
 }
+.thinWidth .active,
 .portion,
 .panel-white .panel-body{
-	background-color: #f7f7f7;
+	background-color: #f7f7f7 !important;
 }
 .panel-white .panel-body,
 .panel-white .panel-heading,
