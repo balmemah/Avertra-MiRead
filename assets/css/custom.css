@@ -14,3 +14,45 @@
 .thinWidth li{
 	padding: 8px 0 0 0;
 }
+.meter h5{
+	margin-bottom: 0 ;
+}
+.meter i{
+	margin-left: 15px ;
+	font-family: myriad pro;
+}
+.meter > div{
+	margin-bottom: 15px;
+}
+.thinWidth .active,
+.portion,
+.panel-white .panel-body{
+	background-color: #f7f7f7 !important;
+}
+.panel-white .panel-body,
+.panel-white .panel-heading,
+.panel-white,
+{
+	border: none !important;
+}
+.panel-white .panel-body {
+	max-height: 250px;
+	overflow-y: auto;
+}
+.table-spaced tbody tr{
+	background-color: #fff !important;
+	margin: 2.5px 0;
+}
+.loginWrapper{
+	background-color: transparent !important;
+}
+.loginWrapper .container-fluid{
+	background-color: transparent !important;
+}
+.jumboWhite{
+	font-size: 27pt;
+}
+.loginPanel{
+	background-color: #f7f7f7;
+	border: none;
+}
